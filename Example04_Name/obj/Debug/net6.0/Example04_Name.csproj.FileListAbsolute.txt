@@ -1,0 +1,15 @@
+D:\C#_Lesson\Example04_Name\obj\Debug\net6.0\Example04_Name.csproj.AssemblyReference.cache
+D:\C#_Lesson\Example04_Name\obj\Debug\net6.0\Example04_Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Lesson\Example04_Name\obj\Debug\net6.0\Example04_Name.AssemblyInfoInputs.cache
+D:\C#_Lesson\Example04_Name\obj\Debug\net6.0\Example04_Name.AssemblyInfo.cs
+D:\C#_Lesson\Example04_Name\obj\Debug\net6.0\Example04_Name.csproj.CoreCompileInputs.cache
+D:\C#_Lesson\Example04_Name\bin\Debug\net6.0\Example04_Name.exe
+D:\C#_Lesson\Example04_Name\bin\Debug\net6.0\Example04_Name.deps.json
+D:\C#_Lesson\Example04_Name\bin\Debug\net6.0\Example04_Name.runtimeconfig.json
+D:\C#_Lesson\Example04_Name\bin\Debug\net6.0\Example04_Name.dll
+D:\C#_Lesson\Example04_Name\bin\Debug\net6.0\Example04_Name.pdb
+D:\C#_Lesson\Example04_Name\obj\Debug\net6.0\Example04_Name.dll
+D:\C#_Lesson\Example04_Name\obj\Debug\net6.0\refint\Example04_Name.dll
+D:\C#_Lesson\Example04_Name\obj\Debug\net6.0\Example04_Name.pdb
+D:\C#_Lesson\Example04_Name\obj\Debug\net6.0\Example04_Name.genruntimeconfig.cache
+D:\C#_Lesson\Example04_Name\obj\Debug\net6.0\ref\Example04_Name.dll
