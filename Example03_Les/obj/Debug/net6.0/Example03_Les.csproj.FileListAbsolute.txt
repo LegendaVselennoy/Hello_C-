@@ -1,0 +1,15 @@
+D:\C#_Lesson\Example03_Les\bin\Debug\net6.0\Example03_Les.exe
+D:\C#_Lesson\Example03_Les\bin\Debug\net6.0\Example03_Les.deps.json
+D:\C#_Lesson\Example03_Les\bin\Debug\net6.0\Example03_Les.runtimeconfig.json
+D:\C#_Lesson\Example03_Les\bin\Debug\net6.0\Example03_Les.dll
+D:\C#_Lesson\Example03_Les\bin\Debug\net6.0\Example03_Les.pdb
+D:\C#_Lesson\Example03_Les\obj\Debug\net6.0\Example03_Les.csproj.AssemblyReference.cache
+D:\C#_Lesson\Example03_Les\obj\Debug\net6.0\Example03_Les.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_Lesson\Example03_Les\obj\Debug\net6.0\Example03_Les.AssemblyInfoInputs.cache
+D:\C#_Lesson\Example03_Les\obj\Debug\net6.0\Example03_Les.AssemblyInfo.cs
+D:\C#_Lesson\Example03_Les\obj\Debug\net6.0\Example03_Les.csproj.CoreCompileInputs.cache
+D:\C#_Lesson\Example03_Les\obj\Debug\net6.0\Example03_Les.dll
+D:\C#_Lesson\Example03_Les\obj\Debug\net6.0\refint\Example03_Les.dll
+D:\C#_Lesson\Example03_Les\obj\Debug\net6.0\Example03_Les.pdb
+D:\C#_Lesson\Example03_Les\obj\Debug\net6.0\Example03_Les.genruntimeconfig.cache
+D:\C#_Lesson\Example03_Les\obj\Debug\net6.0\ref\Example03_Les.dll
